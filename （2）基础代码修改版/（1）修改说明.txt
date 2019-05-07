@@ -1,0 +1,6 @@
+(1) Img_test：包括了原来的Img,isenableM,loca 和Totaltoken函数
+(2) Rechability:将union函数改成cat函数（因为下面的setdiff函数有集合去重的操作，前面只需合并即可）
+
+修改（1）可以快几十倍的速度，修改（2）快2-3倍速度
+
+My_main为主程序
